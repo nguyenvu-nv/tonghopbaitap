@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visualcode_net\\Bai2_dem_so_phan_tu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C520951-DC65-4B87-A77F-940248F47A15}|Bai2_dem_so_phan_tu\\Bai2_dem_so_phan_tu.csproj|d:\\visualcode_net\\bai2_dem_so_phan_tu\\bai2_dem_so_phan_tu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C520951-DC65-4B87-A77F-940248F47A15}|Bai2_dem_so_phan_tu\\Bai2_dem_so_phan_tu.csproj|solutionrelative:bai2_dem_so_phan_tu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visualcode_net\\Bai2_dem_so_phan_tu\\Bai2_dem_so_phan_tu\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2_dem_so_phan_tu\\Program.cs",
+              "ToolTip": "D:\\visualcode_net\\Bai2_dem_so_phan_tu\\Bai2_dem_so_phan_tu\\Program.cs",
+              "RelativeToolTip": "Bai2_dem_so_phan_tu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:44:48.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

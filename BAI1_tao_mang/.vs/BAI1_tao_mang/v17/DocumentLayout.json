@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visualcode_net\\BAI1_tao_mang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{827C3E0C-312A-4A09-B546-D5A862F73F3F}|BAI1_tao_mang\\BAI1_tao_mang.csproj|d:\\visualcode_net\\bai1_tao_mang\\bai1_tao_mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827C3E0C-312A-4A09-B546-D5A862F73F3F}|BAI1_tao_mang\\BAI1_tao_mang.csproj|solutionrelative:bai1_tao_mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visualcode_net\\BAI1_tao_mang\\BAI1_tao_mang\\Program.cs",
+              "RelativeDocumentMoniker": "BAI1_tao_mang\\Program.cs",
+              "ToolTip": "D:\\visualcode_net\\BAI1_tao_mang\\BAI1_tao_mang\\Program.cs",
+              "RelativeToolTip": "BAI1_tao_mang\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:46:35.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

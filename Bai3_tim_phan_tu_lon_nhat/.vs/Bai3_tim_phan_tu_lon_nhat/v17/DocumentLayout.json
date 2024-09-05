@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visualcode_net\\Bai3_tim_phan_tu_lon_nhat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0C7E5E-6638-47C4-B15D-35CA4BCD99F2}|Bai3_tim_phan_tu_lon_nhat\\Bai3_tim_phan_tu_lon_nhat.csproj|d:\\visualcode_net\\bai3_tim_phan_tu_lon_nhat\\bai3_tim_phan_tu_lon_nhat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0C7E5E-6638-47C4-B15D-35CA4BCD99F2}|Bai3_tim_phan_tu_lon_nhat\\Bai3_tim_phan_tu_lon_nhat.csproj|solutionrelative:bai3_tim_phan_tu_lon_nhat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visualcode_net\\Bai3_tim_phan_tu_lon_nhat\\Bai3_tim_phan_tu_lon_nhat\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3_tim_phan_tu_lon_nhat\\Program.cs",
+              "ToolTip": "D:\\visualcode_net\\Bai3_tim_phan_tu_lon_nhat\\Bai3_tim_phan_tu_lon_nhat\\Program.cs",
+              "RelativeToolTip": "Bai3_tim_phan_tu_lon_nhat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:48:27.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

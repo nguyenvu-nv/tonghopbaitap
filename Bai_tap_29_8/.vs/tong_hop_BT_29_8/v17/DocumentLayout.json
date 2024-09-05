@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visualcode_net\\Bai_tap_29_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D7FC-2D01-41FC-A91D-F5CA7004E9CC}|Bai6_dem_so_lan_xuat_hien_1_ki_tu\\tong_hop_BT_29_8.csproj|d:\\visualcode_net\\bai_tap_29_8\\bai6_dem_so_lan_xuat_hien_1_ki_tu\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB34D7FC-2D01-41FC-A91D-F5CA7004E9CC}|Bai6_dem_so_lan_xuat_hien_1_ki_tu\\tong_hop_BT_29_8.csproj|solutionrelative:bai6_dem_so_lan_xuat_hien_1_ki_tu\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D7FC-2D01-41FC-A91D-F5CA7004E9CC}|Bai6_dem_so_lan_xuat_hien_1_ki_tu\\tong_hop_BT_29_8.csproj|d:\\visualcode_net\\bai_tap_29_8\\bai6_dem_so_lan_xuat_hien_1_ki_tu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB34D7FC-2D01-41FC-A91D-F5CA7004E9CC}|Bai6_dem_so_lan_xuat_hien_1_ki_tu\\tong_hop_BT_29_8.csproj|solutionrelative:bai6_dem_so_lan_xuat_hien_1_ki_tu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "baitap.cs",
+              "DocumentMoniker": "D:\\visualcode_net\\Bai_tap_29_8\\Bai6_dem_so_lan_xuat_hien_1_ki_tu\\baitap.cs",
+              "RelativeDocumentMoniker": "Bai6_dem_so_lan_xuat_hien_1_ki_tu\\baitap.cs",
+              "ToolTip": "D:\\visualcode_net\\Bai_tap_29_8\\Bai6_dem_so_lan_xuat_hien_1_ki_tu\\baitap.cs",
+              "RelativeToolTip": "Bai6_dem_so_lan_xuat_hien_1_ki_tu\\baitap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:16:38.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visualcode_net\\Bai_tap_29_8\\Bai6_dem_so_lan_xuat_hien_1_ki_tu\\Program.cs",
+              "RelativeDocumentMoniker": "Bai6_dem_so_lan_xuat_hien_1_ki_tu\\Program.cs",
+              "ToolTip": "D:\\visualcode_net\\Bai_tap_29_8\\Bai6_dem_so_lan_xuat_hien_1_ki_tu\\Program.cs",
+              "RelativeToolTip": "Bai6_dem_so_lan_xuat_hien_1_ki_tu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:27:13.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

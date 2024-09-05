@@ -1,0 +1,14 @@
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\bin\Debug\net8.0\Bai4_dao_chuoi_kt.exe
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\bin\Debug\net8.0\Bai4_dao_chuoi_kt.deps.json
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\bin\Debug\net8.0\Bai4_dao_chuoi_kt.runtimeconfig.json
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\bin\Debug\net8.0\Bai4_dao_chuoi_kt.dll
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\bin\Debug\net8.0\Bai4_dao_chuoi_kt.pdb
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\obj\Debug\net8.0\Bai4_dao_chuoi_kt.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\obj\Debug\net8.0\Bai4_dao_chuoi_kt.AssemblyInfoInputs.cache
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\obj\Debug\net8.0\Bai4_dao_chuoi_kt.AssemblyInfo.cs
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\obj\Debug\net8.0\Bai4_dao_chuoi_kt.csproj.CoreCompileInputs.cache
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\obj\Debug\net8.0\Bai4_dao_chuoi_kt.dll
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\obj\Debug\net8.0\refint\Bai4_dao_chuoi_kt.dll
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\obj\Debug\net8.0\Bai4_dao_chuoi_kt.pdb
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\obj\Debug\net8.0\Bai4_dao_chuoi_kt.genruntimeconfig.cache
+D:\visualcode_net\Bai4_dao_chuoi_kt\Bai4_dao_chuoi_kt\obj\Debug\net8.0\ref\Bai4_dao_chuoi_kt.dll

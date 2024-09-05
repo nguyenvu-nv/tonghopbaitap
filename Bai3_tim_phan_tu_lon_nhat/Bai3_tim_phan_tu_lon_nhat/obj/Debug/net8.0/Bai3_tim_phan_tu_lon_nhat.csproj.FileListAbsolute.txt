@@ -1,0 +1,14 @@
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\obj\Debug\net8.0\Bai3_tim_phan_tu_lon_nhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\obj\Debug\net8.0\Bai3_tim_phan_tu_lon_nhat.AssemblyInfoInputs.cache
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\obj\Debug\net8.0\Bai3_tim_phan_tu_lon_nhat.AssemblyInfo.cs
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\obj\Debug\net8.0\Bai3_tim_phan_tu_lon_nhat.csproj.CoreCompileInputs.cache
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\bin\Debug\net8.0\Bai3_tim_phan_tu_lon_nhat.exe
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\bin\Debug\net8.0\Bai3_tim_phan_tu_lon_nhat.deps.json
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\bin\Debug\net8.0\Bai3_tim_phan_tu_lon_nhat.runtimeconfig.json
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\bin\Debug\net8.0\Bai3_tim_phan_tu_lon_nhat.dll
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\bin\Debug\net8.0\Bai3_tim_phan_tu_lon_nhat.pdb
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\obj\Debug\net8.0\Bai3_tim_phan_tu_lon_nhat.dll
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\obj\Debug\net8.0\refint\Bai3_tim_phan_tu_lon_nhat.dll
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\obj\Debug\net8.0\Bai3_tim_phan_tu_lon_nhat.pdb
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\obj\Debug\net8.0\Bai3_tim_phan_tu_lon_nhat.genruntimeconfig.cache
+D:\visualcode_net\Bai3_tim_phan_tu_lon_nhat\Bai3_tim_phan_tu_lon_nhat\obj\Debug\net8.0\ref\Bai3_tim_phan_tu_lon_nhat.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BAI1_tao_mang/1.0.0": {
+        "runtime": {
+          "BAI1_tao_mang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BAI1_tao_mang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

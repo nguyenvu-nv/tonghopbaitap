@@ -1,0 +1,14 @@
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\obj\Debug\net8.0\BAI1_tao_mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\obj\Debug\net8.0\BAI1_tao_mang.AssemblyInfoInputs.cache
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\obj\Debug\net8.0\BAI1_tao_mang.AssemblyInfo.cs
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\obj\Debug\net8.0\BAI1_tao_mang.csproj.CoreCompileInputs.cache
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\bin\Debug\net8.0\BAI1_tao_mang.exe
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\bin\Debug\net8.0\BAI1_tao_mang.deps.json
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\bin\Debug\net8.0\BAI1_tao_mang.runtimeconfig.json
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\bin\Debug\net8.0\BAI1_tao_mang.dll
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\bin\Debug\net8.0\BAI1_tao_mang.pdb
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\obj\Debug\net8.0\BAI1_tao_mang.dll
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\obj\Debug\net8.0\refint\BAI1_tao_mang.dll
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\obj\Debug\net8.0\BAI1_tao_mang.pdb
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\obj\Debug\net8.0\BAI1_tao_mang.genruntimeconfig.cache
+D:\visualcode_net\BAI1_tao_mang\BAI1_tao_mang\obj\Debug\net8.0\ref\BAI1_tao_mang.dll

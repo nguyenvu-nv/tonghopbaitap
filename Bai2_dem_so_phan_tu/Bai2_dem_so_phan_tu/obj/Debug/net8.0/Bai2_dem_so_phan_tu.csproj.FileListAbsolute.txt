@@ -1,0 +1,14 @@
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\bin\Debug\net8.0\Bai2_dem_so_phan_tu.exe
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\bin\Debug\net8.0\Bai2_dem_so_phan_tu.deps.json
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\bin\Debug\net8.0\Bai2_dem_so_phan_tu.runtimeconfig.json
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\bin\Debug\net8.0\Bai2_dem_so_phan_tu.dll
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\bin\Debug\net8.0\Bai2_dem_so_phan_tu.pdb
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\obj\Debug\net8.0\Bai2_dem_so_phan_tu.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\obj\Debug\net8.0\Bai2_dem_so_phan_tu.AssemblyInfoInputs.cache
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\obj\Debug\net8.0\Bai2_dem_so_phan_tu.AssemblyInfo.cs
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\obj\Debug\net8.0\Bai2_dem_so_phan_tu.csproj.CoreCompileInputs.cache
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\obj\Debug\net8.0\Bai2_dem_so_phan_tu.dll
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\obj\Debug\net8.0\refint\Bai2_dem_so_phan_tu.dll
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\obj\Debug\net8.0\Bai2_dem_so_phan_tu.pdb
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\obj\Debug\net8.0\Bai2_dem_so_phan_tu.genruntimeconfig.cache
+D:\visualcode_net\Bai2_dem_so_phan_tu\Bai2_dem_so_phan_tu\obj\Debug\net8.0\ref\Bai2_dem_so_phan_tu.dll
